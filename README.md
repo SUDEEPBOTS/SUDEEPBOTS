@@ -35,13 +35,7 @@
 
 | 🚀 Bot Name | 📌 Description |
 |------------|----------------|
-| 🧨 Mines Game Bot | 5x5 grid + Cashouts + Leaderboard |
-| 💔 Breakup Bot | Sad replies, fun commands, roast mode |
-| 🧠 AI Chatbot | HuggingFace + LLM + Telegram group talk |
-| 🖼️ Pic Detector Bot | Fetches and roasts profile pics smartly |
-| 🎬 Anime Finder | Search, select season, episode – all auto |
-
----
+| music bot 🌚
 
 ### 📊 My GitHub Stats
 
