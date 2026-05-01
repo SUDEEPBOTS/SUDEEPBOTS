@@ -170,6 +170,11 @@ class SUDEEPBOTS:
 <img src="https://github-profile-trophy.vercel.app/?username=SUDEEPBOTS&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" width="100%" alt="Trophies"/>
 </div>
 
+## 🏅 Achievements
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/SUDEEPBOTS/SUDEEPBOTS/main/metrics.svg" width="100%" alt="Achievements"/>
+</div>
 <br/>
 
 ---
