@@ -178,6 +178,19 @@ class SUDEEPBOTS:
 <br/>
 
 ---
+## 🏅 Achievements
+
+<div align="center">
+
+<img src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png" width="80" title="YOLO"/>
+&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/quickdraw-default.png" width="80" title="Quickdraw"/>
+&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" width="80" title="Pull Shark"/>
+&nbsp;
+<img src="https://github.githubassets.com/images/modules/profile/achievements/galaxy-brain-default.png" width="80" title="Galaxy Brain"/>
+
+</div>
 
 ## 📌 FEATURED PROJECTS
 
