@@ -51,7 +51,7 @@ class SUDEEPBOTS:
 
 ---
 
-## 🛠️ Tech Stack
+##  TECH STACK
 
 <div align="center">
 
@@ -90,7 +90,7 @@ class SUDEEPBOTS:
 
 ---
 
-## 📊 GitHub Stats
+##  GITHUB STATS
 
 <div align="center">
 
@@ -112,7 +112,7 @@ class SUDEEPBOTS:
 
 ---
 
-## 🎯 Profile Summary
+##  PROFILE SUMMARY
 
 <div align="center">
 
@@ -136,7 +136,7 @@ class SUDEEPBOTS:
 
 ---
 
-## 🏆 Trophies
+##  TROPHIES
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SUDEEPBOTS&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" width="100%" alt="Trophies"/>
