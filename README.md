@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=260&section=header&text=SUDEEPBOTS&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Bot%20Builder%20%7C%20Open%20Source&descSize=17&descColor=8b949e&descAlignY=58"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF5733&center=true&vCenter=true&width=650&lines=PYTHON+BACKEND+DEVELOPER+🐍;TELEGRAM+BOT+SPECIALIST+🤖;BUILDING+YUKIMUSIC+🎵;OPEN+SOURCE+ENTHUSIAST+💙;ALWAYS+LEARNING,+ALWAYS+SHIPPING+🚀&bold=true" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=Python+Backend+Developer+%F0%9F%90%8D;Telegram+Bot+Specialist+%F0%9F%A4%96;Building+YUKIMUSIC+%F0%9F%8E%B5;Open+Source+Enthusiast+%F0%9F%92%99;Always+Learning%2C+Always+Shipping+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <br/>
