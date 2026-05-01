@@ -229,10 +229,21 @@ class SUDEEPBOTS:
 
 ### 🚀 LIVE LINKS
 
-- 🔗 **Repo:** https://github.com/SUDEEPBOTS/YUKIMUSIC  
-- 📢 **Telegram:** https://t.me/SUDEEPBOTS  
+<p align="center">
 
----
+<a href="https://github.com/SUDEEPBOTS/YUKIMUSIC">
+  <img src="https://img.shields.io/badge/GITHUB-REPOSITORY-0d1117?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+</a>
+
+<a href="https://t.me/SUDEEPBOTS">
+  <img src="https://img.shields.io/badge/TELEGRAM-BOT-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+<a href="https://yukiapi.site">
+  <img src="https://img.shields.io/badge/LIVE-WEBSITE-ff3c00?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=1a1a2e"/>
+</a>
+
+</p>
 
 ### ⭐ SUPPORT
 
