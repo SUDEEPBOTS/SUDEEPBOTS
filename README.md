@@ -50,6 +50,18 @@ class SUDEEPBOTS:
 <br/>
 
 ---
+---
+
+## 🏅 Achievements
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SUDEEPBOTS&theme=algolia&no-frame=true&margin-w=8&row=1&column=7" width="100%" alt="Trophies"/>
+
+<br/><br/>
+
+<img src="https://github.com/SUDEEPBOTS/SUDEEPBOTS/blob/output/metrics.svg" width="100%" alt="Achievements"/>
+
+</div>
 
 ##  TECH STACK
 
