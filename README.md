@@ -26,7 +26,7 @@
 
 <!-- Profile Picture -->
 <div align="center">
-  <img src="https://files.catbox.moe/rh41lr.jpg" width="130" style="border-radius: 50%"/>
+  <img src="https://files.catbox.moe/rh41lr.jpg" width="200" style="border-radius: 50%"/>
 </div>
 
 <br/>
