@@ -195,6 +195,10 @@ class SUDEEPBOTS:
 
 ## 🎵 YUKIMUSIC
 
+<p align="center">
+  <b>🚀 Advanced Telegram Music Bot with High Performance Streaming</b>
+</p>
+
 <div align="center">
 
 <img src="https://img.shields.io/github/stars/SUDEEPBOTS/YUKIMUSIC?style=for-the-badge&color=yellow" />
@@ -205,6 +209,34 @@ class SUDEEPBOTS:
 </div>
 
 ---
+
+### ⚡ FEATURES
+
+- 🎧 High Quality Audio Streaming  
+- 🤖 Fully Automated Telegram Music Bot  
+- ⚡ Fast & Optimized Performance  
+- 🔄 Queue System + Playlist Support  
+- 🌐 Works in Groups & Channels  
+- 🛠️ Easy Deployment (VPS Ready)
+
+---
+
+### 🧠 TECH USED
+
+`Python` • `Pyrogram` • `FFmpeg` • `MongoDB` • `Redis` • `Docker`
+
+---
+
+### 🚀 LIVE LINKS
+
+- 🔗 **Repo:** https://github.com/SUDEEPBOTS/YUKIMUSIC  
+- 📢 **Telegram:** https://t.me/SUDEEPBOTS  
+
+---
+
+### ⭐ SUPPORT
+
+If you like this project, don’t forget to ⭐ the repo!
 
 ## 🤝 CONNECT WITH ME
 <div align="center">
