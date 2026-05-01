@@ -91,6 +91,28 @@ class SUDEEPBOTS:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram)
 
+## 🛠️ TECH STONES
+
+### 👨‍💻 LANGUAGES
+![Python](https://img.shields.io/badge/Python-FFDD54?style=for-the-badge&logo=python&logoColor=black)
+
+### ⚙️ BACKEND & DATABASE
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+### 🤖 BOT & AUTOMATION
+![Telegram](https://img.shields.io/badge/Telegram_Bots-2CA5E0?style=for-the-badge&logo=telegram)
+![Pyrogram](https://img.shields.io/badge/Pyrogram-0088cc?style=for-the-badge)
+
+### 🧰 TOOLS & DEVOPS
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+
+### ☁️ HOSTING
+![VPS](https://img.shields.io/badge/VPS-000000?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws)
+
 </div>
 
 <br/>
