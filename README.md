@@ -146,13 +146,17 @@ class SUDEEPBOTS:
 
 ---
 
-## 📌 Featured Projects
+## 📌 FEATURED PROJECTS
 
 <div align="center">
 
-[![YUKIMUSIC](https://github-readme-stats.vercel.app/api/pin/?username=SUDEEPBOTS&repo=YUKIMUSIC&theme=tokyonight&hide_border=true)](https://github.com/SUDEEPBOTS/YUKIMUSIC)
-&nbsp;
-[![SUDEEPBOTS](https://github-readme-stats.vercel.app/api/pin/?username=SUDEEPBOTS&repo=SUDEEPBOTS&theme=tokyonight&hide_border=true)](https://github.com/SUDEEPBOTS/SUDEEPBOTS)
+<a href="https://github.com/SUDEEPBOTS/YUKIMUSIC">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUDEEPBOTS&repo=YUKIMUSIC&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/SUDEEPBOTS/SUDEEPBOTS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=SUDEEPBOTS&repo=SUDEEPBOTS&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
@@ -160,8 +164,20 @@ class SUDEEPBOTS:
 
 ---
 
-## 🤝 Connect With Me
+## 🎵 YUKIMUSIC
 
+<div align="center">
+
+<img src="https://img.shields.io/github/stars/SUDEEPBOTS/YUKIMUSIC?style=for-the-badge&color=yellow" />
+<img src="https://img.shields.io/github/forks/SUDEEPBOTS/YUKIMUSIC?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/issues/SUDEEPBOTS/YUKIMUSIC?style=for-the-badge&color=red" />
+<img src="https://img.shields.io/github/license/SUDEEPBOTS/YUKIMUSIC?style=for-the-badge&color=green" />
+
+</div>
+
+---
+
+## 🤝 CONNECT WITH ME
 <div align="center">
 
 <a href="https://t.me/SUDEEPBOTS">
