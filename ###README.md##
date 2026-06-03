@@ -1,5 +1,9 @@
 <div align="center">
 
+<!-- ===== ANIMATED HEADER ===== -->
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&height=200&section=header&text=✦%lts%build%20✦&fontSize=60&fontColor=ffffff&animation=fadeIn&gradient=ff6b9d,c44dff,6dd5ed&stroke=ff6b9d" width="100%" alt="Header"/>
+
+
 <!-- HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=260&section=header&text=SUDEEPBOTS&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Python%20Developer%20%7C%20Bot%20Builder%20%7C%20Open%20Source&descSize=17&descColor=8b949e&descAlignY=58"/>
 
